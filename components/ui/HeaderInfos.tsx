@@ -44,7 +44,7 @@ export default function HeaderInfos(props: Header) {
                     <a
                         key={link.text}
                         href={link.link}
-                        className="text-[#222} px-[20px] py-[9px] opacity-[0.6] hover:text-black uppercase text-[12px] font-[500] tracking-[1px] font-['Montserrat']"
+                        className="text-[#222} px-[20px] py-[9px] hover:opacity-100 opacity-[0.6] hover:text-black uppercase text-[12px] font-[500] tracking-[1px] font-['Montserrat']"
                     >
                         {link.text}
                     </a>
