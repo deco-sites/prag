@@ -2,15 +2,25 @@
 // This file SHOULD be checked into source version control.
 // This file is automatically updated during development when running `dev.ts`.
 
-import * as $$$$$$0 from "./sections/Links.tsx";
-import * as $$$$$$1 from "./sections/Theme.tsx";
+import * as $$$$$$0 from "./sections/Cards.tsx";
+import * as $$$$$$1 from "./sections/Footer.tsx";
+import * as $$$$$$2 from "./sections/Header.tsx";
+import * as $$$$$$3 from "./sections/Hero.tsx";
+import * as $$$$$$4 from "./sections/Links.tsx";
+import * as $$$$$$5 from "./sections/NLIssues.tsx";
+import * as $$$$$$6 from "./sections/Theme.tsx";
 import * as $$$$$$$$$$$0 from "./apps/decohub.ts";
 import * as $$$$$$$$$$$1 from "./apps/site.ts";
 
 const manifest = {
   "sections": {
-    "deco-sites/prag/sections/Links.tsx": $$$$$$0,
-    "deco-sites/prag/sections/Theme.tsx": $$$$$$1,
+    "deco-sites/prag/sections/Cards.tsx": $$$$$$0,
+    "deco-sites/prag/sections/Footer.tsx": $$$$$$1,
+    "deco-sites/prag/sections/Header.tsx": $$$$$$2,
+    "deco-sites/prag/sections/Hero.tsx": $$$$$$3,
+    "deco-sites/prag/sections/Links.tsx": $$$$$$4,
+    "deco-sites/prag/sections/NLIssues.tsx": $$$$$$5,
+    "deco-sites/prag/sections/Theme.tsx": $$$$$$6,
   },
   "apps": {
     "deco-sites/prag/apps/decohub.ts": $$$$$$$$$$$0,
